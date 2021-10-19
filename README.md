@@ -9,3 +9,4 @@ Skills and Expertise
 programming languages:Python(scientific Computing,DJango), C, CSS,JavaScript.
 Responsive Web Development
 Front-End web developer.
+[![Aggrey-Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=aggrey-Felix)](https://github.com/aggrey-Felix/github-readme-stats)
