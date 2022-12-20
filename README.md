@@ -6,9 +6,9 @@ Am Machine Learning enthusiast and software engineer.passion driven, resilient a
 
 Skills and Expertise
 
-programming languages:Programming Languages: Python (Numpy,Flask, Django, Jupyter, Scikit-Learn), C/C++, SQL(Postgres, MySql, JavaScript(NodeJs), HTML, CSS
+programming languages:Programming Languages: Python (Numpy,Flask, Django, Jupyter, Scikit-Learn), C, SQL(Postgres, MySql, JavaScript(NodeJs), HTML, CSS
 Software Development Life Cycle
-Development operations
+Development operations(DevOps)
 
 Machine Learning and Deep Learning:
       -Supervised Learning: Linear Regression, Logistic Regression, SVMs, KNNs, Neural Networks, CNNs, RNNs, Transformers, Computer Vision (Object Detection, Image Segmentation, Face Recognition/Verification, YOLO, OpenCV), Natural Language Processing (NLTK, SpaCy, Gensim)
